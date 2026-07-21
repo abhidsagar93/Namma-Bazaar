@@ -21,7 +21,7 @@
 
    NEVER put the service_role key here. It bypasses all security.
 --------------------------------------------------------------------------- */
-const SUPABASE_URL = 'https://https://ycffcsbadcgenttzwfdb.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://https://ycffcsbadcgenttzwfdb.supabase.co';
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InljZmZjc2JhZGNnZW50dHp3ZmRiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ1MzEyNzMsImV4cCI6MjEwMDEwNzI3M30.KSqo0mm8QSCY9ngQR_STHtsAp2xLWUiJ-RFgE7ulAAE';
 
 
